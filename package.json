@@ -1,0 +1,27 @@
+{
+  "name": "mongoose_event",
+  "version": "1.0.0",
+  "description": "JavaScript Event Creation [ nodejs, mongoose, express ]",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jahopp23/Mongoose_Events.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "mongoose",
+    "express",
+    "npm"
+  ],
+  "author": "John Allen Hopper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jahopp23/Mongoose_Events/issues"
+  },
+  "homepage": "https://github.com/jahopp23/Mongoose_Events#readme"
+}
